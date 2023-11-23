@@ -12,7 +12,7 @@
 
 
     <?php
-$url = "http://localhost/web2-utazas/models/rest_server_model.php";
+$url = "http://localhost/Web-prog2-utazas/models/rest_server_model.php";
 $result = "";
 if(isset($_POST['az']))
 {
